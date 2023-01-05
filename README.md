@@ -13,7 +13,7 @@
 
 - 📫 How to reach me at **ryanstraight.com**
 
-- 📃 You can see my CV at [https://cv.ryanstraight.com](https://cv.ryanstraight.com)
+- 📃 You can see my CV at <https://ryanstraight.com/cv>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
