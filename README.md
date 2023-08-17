@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dr. Ryan Straight</h1>
-<h3 align="center">Associate Professor or Practice and Lab Director</h3>
+<h3 align="center">Honors/Assistant Professor and Lab Director</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanstraight&label=Profile%20views&color=0e75b6&style=flat" alt="ryanstraight" /> </p>
 
