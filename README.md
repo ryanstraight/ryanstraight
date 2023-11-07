@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently directing [the MA{VR}X Lab.](https://github.com/mavrxlab/)
 
-- 🏫 I'm currently teaching in [the Applied Computing program at the University of Arizona.](https://github.com/UAAppComp/)
+- 🏫 I'm currently teaching in [the undergraduate and graduate Cyber Operations programs at the University of Arizona.](https://azcast.arizona.edu)
 
 - ℹ I'm sharing all sorts of [resources](https://github.com/ryanstraight/resources/)
 
 - 📫 How to reach me at **ryanstraight.com**
 
-- 📃 You can see my CV at <https://ryanstraight.com/cv>
+- 📃 You can browse [my CV if you like](https://ryanstraight.com/cv/Straight_Academic_CV.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ryanstraight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryanstraight" height="30" width="40" /></a>
+<a href="https://hci.social/@ryanstraight" target="blank"><img align="center" src="https://friconix.com/png/fi-xnsuxt-mastodon.png" alt="ryanstraight" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ryanmstraight" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryanmstraight" height="30" width="40" /></a>
 </p>
 
